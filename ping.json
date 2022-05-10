@@ -2,7 +2,7 @@
     "query": [
         {
             "number": 1,
-            "name": "Coolage",
+            "name": "Dice",
             "ip": "54.38.117.79",
             "port": 7667,
             "online": 0,
